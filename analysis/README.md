@@ -9,7 +9,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 
 
 ## Navigation
-- [Taxonomy](https://github.com/ancientml/ml-for-ancient-languages/tree/main/taxonomy)
+- [Taxonomy](https://github.com/ancientml/ml-for-ancient-languages/tree/main/taxonomy/README.md)
 - [Full article @ Computational Linguistics](https://github.com/ancientml/ml-for-ancient-languages/blob/main/taxonomy.csv)
 
 
