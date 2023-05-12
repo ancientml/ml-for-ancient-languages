@@ -1,5 +1,5 @@
 # Machine Learning for Ancient Languages: A Survey
-### Thea Sommerschield\*, Yannis Assael\*, John Pavlopoulos\*, Vanessa Stefanak, Andrew Senior, Chris Dyer, John Bodel, Jonathan Prag, Ion Androutsopoulos, Nando de Freitas
+**Thea Sommerschield\*, Yannis Assael\*, John Pavlopoulos\*, Vanessa Stefanak, Andrew Senior, Chris Dyer, John Bodel, Jonathan Prag, Ion Androutsopoulos, Nando de Freitas**
 
 ## This repository
 
