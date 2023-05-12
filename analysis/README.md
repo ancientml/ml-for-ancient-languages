@@ -27,11 +27,11 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 
 ### Publications
 
-![Publications per year](https://raw.githubusercontent.com/ancientml/ml-for-ancient-languages/main/analysis/stats-year-cumsum.svg)
+![Publications per year](./stats-year-cumsum.svg)
 
 ### Languages
 
-![Language distribution](https://raw.githubusercontent.com/ancientml/ml-for-ancient-languages/main/analysis/stats-lang.svg)
+![Language distribution](./stats-lang.svg)
 
 |              |   2000-2010 |   2010-2015 |   2015-2020 |   2020-2023 |   Total |
 |:-------------|------------:|------------:|------------:|------------:|--------:|
@@ -53,7 +53,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 
 ### Model types
 
-![Model types](https://raw.githubusercontent.com/ancientml/ml-for-ancient-languages/main/analysis/stats-model-types.svg)
+![Model types](./stats-model-types.svg)
 
 |                                     |   2000-2010 |   2010-2015 |   2015-2020 |   2020-2023 |   Total |
 |:------------------------------------|------------:|------------:|------------:|------------:|--------:|
@@ -78,7 +78,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | word2vec/fastText/word2vec/fastText |           0 |           0 |           7 |           4 |      11 |
 
 ### Existing models
-![Existing models](https://raw.githubusercontent.com/ancientml/ml-for-ancient-languages/main/analysis/stats-model-existing.svg)
+![Existing models](./stats-model-existing.svg)
 
 ### Modalities per category
 | Category                                         |   Text |   Visual |   Both |
