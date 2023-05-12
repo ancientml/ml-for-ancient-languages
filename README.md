@@ -10,8 +10,8 @@ This repository serves as a platform to host the taxonomy of the research works 
 Pull requests are highly encouraged. If you are working on or come across new publications in the field, please feel free to submit a pull request to update the repository, and help us maintain a vibrant and useful catalogue for the community!
 
 ## Navigation
-- [Taxonomy](https://github.com/ancientml/ml-for-ancient-languages/tree/main/analysis)
-- [Further analysis](https://github.com/ancientml/ml-for-ancient-languages/tree/main/taxonomy)
+- [Taxonomy](https://github.com/ancientml/ml-for-ancient-languages/tree/main/taxonomy)
+- [Further analysis](https://github.com/ancientml/ml-for-ancient-languages/tree/main/analysis)
 - [Full article @ Computational Linguistics](https://github.com/ancientml/ml-for-ancient-languages/blob/main/taxonomy.csv)
 
 ## Citation
