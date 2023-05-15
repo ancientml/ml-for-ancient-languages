@@ -90,19 +90,19 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | Geographical attribution                         |      2 |        0 |      0 |
 | Intertextuality                                  |     13 |        0 |      0 |
 | Language identification                          |      8 |        0 |      0 |
-| Machine translation                              |      9 |        1 |      0 |
-| POS tagging and Parsing                          |     44 |        0 |      1 |
+| Machine translation                              |     10 |        1 |      0 |
+| POS tagging and Parsing                          |     45 |        0 |      1 |
 | Palaeographic analysis and writer identification |      0 |       22 |      1 |
 | Quality enhancement                              |      0 |        9 |      0 |
-| Recognition                                      |      0 |       17 |     12 |
+| Recognition                                      |      0 |       18 |     13 |
 | Representation learning                          |      7 |        0 |      0 |
 | Semantics                                        |      7 |        0 |      0 |
 | Sentiment analysis                               |      2 |        0 |      0 |
-| Stemmatology                                     |      3 |        0 |      0 |
+| Stemmatology                                     |      4 |        0 |      0 |
 | Stylometrics                                     |      3 |        0 |      0 |
-| Textual restoration                              |     10 |        0 |      0 |
+| Textual restoration                              |     11 |        0 |      1 |
 | Topic modelling, genre detection                 |      5 |        0 |      0 |
-| Word segmentation and boundary detection         |      9 |        1 |      1 |
+| Word segmentation and boundary detection         |     10 |        2 |      1 |
 
 
 ## License
