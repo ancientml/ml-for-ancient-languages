@@ -3,11 +3,11 @@
 
 ## This repository
 
-This repository serves as a platform to host the taxonomy of the research works we have reviewed, as well as to maintain an up-to-date catalogue of active interdisciplinary Machine Learning projects focused on ancient languages.*
+This repository serves as a platform to host the taxonomy of the research works we have reviewed, as well as to maintain an up-to-date catalogue of active interdisciplinary Machine Learning projects focused on ancient languages.(*)
 
 Pull requests are highly encouraged. If you are working on or come across new publications in the field, please feel free to submit a pull request to update the repository, and help us maintain a dynamic and useful catalogue for the community!
 
-* We consider all languages in use across the world, written on any medium and in any script, between the birth of writing systems in ancient Mesopotamia (3400 BCE) up until the conventional end of 'ancient history' in the late first millennium CE. This remit excludes therefore e.g. modern printed texts in ancient languages, Medieval scribal cultures etc. We also do not consider works that did not employ machine learning models, nor those published before the 2000s - owing to space limitations.
+(*) <i> We consider all languages in use across the world, written on any medium and in any script, between the birth of writing systems in ancient Mesopotamia (3400 BCE) up until the conventional end of 'ancient history' in the late first millennium CE. This remit excludes therefore e.g. modern printed texts in ancient languages, Medieval scribal cultures etc. </i>
 
 
 ## Navigation
