@@ -5,6 +5,8 @@ Ancient languages preserve the cultures and histories of the past. However, thei
 This article aims to provide a comprehensive survey of published research using machine learning for the study of ancient texts written in any language, script and medium, spanning over three and a half millennia of civilisations around the ancient world. To analyse the relevant literature, we introduce a taxonomy of tasks inspired by the steps involved in the study of ancient documents: digitisation, restoration, attribution, linguistic analysis, textual criticism, translation and decipherment. This work offers three major contributions: first, mapping the interdisciplinary field carved out by the synergy between the Humanities and Machine Learning; second, highlighting how active collaboration between specialists from both fields is key to producing impactful and compelling scholarship; third, flagging promising directions for future work in this field. 
 Thus, this work promotes and supports the continued collaborative impetus between the Humanities and Machine Learning.
 
+*\* T.S., Y.A., J.P. contributed equally to this work.* 
+
 ## This repository
 
 This repository serves as a platform to host the taxonomy of the research works we have reviewed, as well as to maintain an up-to-date catalogue of active interdisciplinary Machine Learning projects focused on ancient languages.
@@ -18,16 +20,20 @@ Please note that this repository only includes <em>machine learning research for
 ## Navigation
 - [Taxonomy](https://github.com/ancientml/ml-for-ancient-languages/tree/main/taxonomy/README.md)
 - [Further analysis](https://github.com/ancientml/ml-for-ancient-languages/tree/main/analysis/README.md)
-- [Full article @ Computational Linguistics](https://github.com/ancientml/ml-for-ancient-languages/blob/main/taxonomy.csv)
+- [Full article @ Computational Linguistics](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00481/116160/Machine-Learning-for-Ancient-Languages-A-Survey)
 
 ## Citation
 
 ```
 @article{sommerschield2023machine,
-  title = {Machine Learning for Ancient Languages: A Survey},
   author = {Sommerschield*, Thea and Assael*, Yannis and Pavlopoulos*, John and Stefanak, Vanessa and Senior, Andrew and Dyer, Chris and Bodel, John and Prag, Jonathan and Androutsopoulos, Ion and de Freitas, Nando},
+  title = {Machine Learning for Ancient Languages: A Survey},
   journal = {Computational Linguistics},
-  year = {2023}
+  pages = {1-44},
+  year = {2023},
+  month = {05},
+  issn = {0891-2017},
+  doi = {10.1162/coli_a_00481}
 }
 ```
 

@@ -10,16 +10,20 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 
 ## Navigation
 - [Further analysis](https://github.com/ancientml/ml-for-ancient-languages/tree/main/analysis/README.md)
-- [Full article @ Computational Linguistics](https://github.com/ancientml/ml-for-ancient-languages/blob/main/taxonomy.csv)
+- [Full article @ Computational Linguistics](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00481/116160/Machine-Learning-for-Ancient-Languages-A-Survey)
 
 ## Citation
 
 ```
 @article{sommerschield2023machine,
-  title = {Machine Learning for Ancient Languages: A Survey},
   author = {Sommerschield*, Thea and Assael*, Yannis and Pavlopoulos*, John and Stefanak, Vanessa and Senior, Andrew and Dyer, Chris and Bodel, John and Prag, Jonathan and Androutsopoulos, Ion and de Freitas, Nando},
+  title = {Machine Learning for Ancient Languages: A Survey},
   journal = {Computational Linguistics},
-  year = {2023}
+  pages = {1-44},
+  year = {2023},
+  month = {05},
+  issn = {0891-2017},
+  doi = {10.1162/coli_a_00481}
 }
 ```
 
