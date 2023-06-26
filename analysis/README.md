@@ -42,14 +42,14 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 
 |              |   2000-2010 |   2010-2015 |   2015-2020 |   2020-2023 |   Total |
 |:-------------|------------:|------------:|------------:|------------:|--------:|
-| Anc. Greek   |           5 |           4 |          32 |          21 |      62 |
+| Anc. Greek   |           5 |           5 |          32 |          21 |      63 |
 | Arabic       |           0 |           5 |           4 |           1 |      10 |
 | Cuneiform    |           0 |           5 |          14 |          11 |      30 |
 | Devanagari   |           0 |           0 |           1 |           3 |       4 |
 | Egyptian     |           0 |           1 |           1 |           3 |       5 |
 | Hebrew       |           0 |           2 |           8 |           3 |      13 |
 | Indus Script |           3 |           5 |           2 |           1 |      11 |
-| Latin        |           2 |           6 |          32 |          21 |      61 |
+| Latin        |           2 |           6 |          33 |          21 |      62 |
 | Linear B     |           0 |           0 |           2 |           1 |       3 |
 | Old Chinese  |           0 |           1 |           6 |          15 |      22 |
 | Old Korean   |           0 |           0 |           0 |           8 |       8 |
@@ -71,7 +71,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | GAN                                 |           0 |           0 |           0 |           7 |       7 |
 | K-NN                                |           0 |           2 |           9 |           5 |      16 |
 | Logistic Regression                 |           0 |           3 |           2 |           0 |       5 |
-| MLP/NN                              |           1 |           5 |           7 |           4 |      17 |
+| MLP/NN                              |           1 |           5 |           8 |           4 |      18 |
 | Optimization                        |           0 |           2 |           3 |           0 |       5 |
 | Probabilistic model                 |           2 |           6 |           9 |           7 |      24 |
 | RNN                                 |           0 |           1 |          20 |          14 |      35 |
@@ -98,7 +98,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | Intertextuality                                  |     13 |        0 |      0 |
 | Language identification                          |      8 |        0 |      0 |
 | Machine translation                              |     10 |        1 |      0 |
-| POS tagging and Parsing                          |     45 |        0 |      1 |
+| POS tagging and Parsing                          |     47 |        0 |      1 |
 | Palaeographic analysis and writer identification |      0 |       22 |      1 |
 | Quality enhancement                              |      0 |        9 |      0 |
 | Recognition                                      |      0 |       18 |     13 |
