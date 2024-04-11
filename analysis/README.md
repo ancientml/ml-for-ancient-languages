@@ -51,7 +51,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | Indus Script |           3 |           5 |           2 |           1 |      11 |
 | Latin        |           2 |           6 |          33 |          21 |      62 |
 | Linear B     |           0 |           0 |           2 |           1 |       3 |
-| Old Chinese  |           0 |           1 |           6 |          15 |      22 |
+| Old Chinese  |           0 |           1 |           6 |          16 |      23 |
 | Old Korean   |           0 |           0 |           0 |           8 |       8 |
 | Old Tamil    |           0 |           0 |           3 |           1 |       4 |
 | Sanskrit     |           0 |           0 |           3 |           1 |       4 |
@@ -78,7 +78,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | SVM                                 |           0 |           6 |          15 |           7 |      28 |
 | Similarity                          |           0 |           1 |           2 |           1 |       4 |
 | Software                            |           1 |           2 |           2 |           1 |       6 |
-| Transformer                         |           0 |           0 |           3 |          30 |      33 |
+| Transformer                         |           0 |           0 |           3 |          31 |      34 |
 | Trees/Trees/Random Forest           |           0 |           1 |           5 |           7 |      13 |
 | n-gram                              |           2 |           8 |           5 |           4 |      19 |
 | seq2seq                             |           0 |           0 |           3 |           6 |       9 |
@@ -95,7 +95,7 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | Decipherment                                     |     13 |        1 |      2 |
 | Fragment reassembly                              |      1 |        4 |      0 |
 | Geographical attribution                         |      2 |        0 |      0 |
-| Intertextuality                                  |     13 |        0 |      0 |
+| Intertextuality                                  |     15 |        0 |      0 |
 | Language identification                          |      8 |        0 |      0 |
 | Machine translation                              |     10 |        1 |      0 |
 | POS tagging and Parsing                          |     47 |        0 |      1 |
@@ -107,9 +107,9 @@ Pull requests are highly encouraged. If you are working on or come across new pu
 | Sentiment analysis                               |      2 |        0 |      0 |
 | Stemmatology                                     |      4 |        0 |      0 |
 | Stylometrics                                     |      3 |        0 |      0 |
-| Textual restoration                              |     11 |        0 |      1 |
+| Textual restoration                              |     11 |        0 |      2 |
 | Topic modelling, genre detection                 |      5 |        0 |      0 |
-| Word segmentation and boundary detection         |     10 |        2 |      1 |
+| Word segmentation and boundary detection         |     11 |        2 |      1 |
 
 
 ## License
